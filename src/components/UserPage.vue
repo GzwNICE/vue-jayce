@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{msg }} {{ raw }}</h1>
+    <h1>{{msg }}</h1>
     <h1 v-html="raw"></h1>
   </div>
 </template>
